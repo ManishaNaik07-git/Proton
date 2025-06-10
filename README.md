@@ -1,6 +1,6 @@
 # Prerequisites
-#
-- JDK 17 
+# adding message to readme file
+- JDK 21
 - Maven 3.9 
 - MySQL 8
 
